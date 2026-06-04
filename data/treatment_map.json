@@ -1,0 +1,261 @@
+{
+  "Tomato___Bacterial_spot": {
+    "disease": "Bacterial Spot",
+    "crop": "Tomato",
+    "cause": "Bacterial infection (Xanthomonas spp.)",
+    "symptoms": "Small dark water-soaked spots on leaves and fruit",
+    "urgency": "High",
+    "treatment": [
+      "Remove and destroy all infected plant parts immediately",
+      "Apply copper-based bactericide spray every 7 days",
+      "Avoid working with plants when they are wet",
+      "Disinfect all tools with 10% bleach solution after use",
+      "Improve air circulation by pruning overcrowded stems"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds",
+      "Rotate crops \u2014 do not plant tomatoes in same spot for 2 years",
+      "Use drip irrigation instead of overhead watering"
+    ]
+  },
+  "Tomato___Early_blight": {
+    "disease": "Early Blight",
+    "crop": "Tomato",
+    "cause": "Fungal infection (Alternaria solani)",
+    "symptoms": "Dark brown spots with yellow rings on older leaves",
+    "urgency": "High",
+    "treatment": [
+      "Remove infected lower leaves and dispose away from farm",
+      "Apply copper-based fungicide or mancozeb every 7\u201310 days",
+      "Water at the base \u2014 never from above",
+      "Stake plants to improve airflow",
+      "Apply organic mulch to prevent soil splash onto leaves"
+    ],
+    "prevention": [
+      "Plant resistant tomato varieties",
+      "Rotate crops every 2\u20133 seasons",
+      "Avoid excessive nitrogen fertilizer"
+    ]
+  },
+  "Tomato___Late_blight": {
+    "disease": "Late Blight",
+    "crop": "Tomato",
+    "cause": "Water mould (Phytophthora infestans)",
+    "symptoms": "Large dark greasy patches on leaves; white mould on undersides",
+    "urgency": "Critical \u2014 spreads very fast",
+    "treatment": [
+      "Act immediately \u2014 this disease destroys crops within days",
+      "Remove and burn ALL infected plant material",
+      "Apply chlorothalonil or mancozeb fungicide immediately",
+      "Spray the entire field including healthy-looking plants",
+      "Repeat spraying every 5\u20137 days until controlled"
+    ],
+    "prevention": [
+      "Plant only blight-resistant varieties",
+      "Ensure good field drainage",
+      "Monitor crops daily during rainy or humid weather"
+    ]
+  },
+  "Tomato___Leaf_Mold": {
+    "disease": "Leaf Mold",
+    "crop": "Tomato",
+    "cause": "Fungal infection (Passalora fulva)",
+    "symptoms": "Yellow patches on upper leaf surface; olive mould on undersides",
+    "urgency": "Moderate",
+    "treatment": [
+      "Remove heavily infected leaves immediately",
+      "Apply fungicide containing chlorothalonil or copper",
+      "Reduce humidity by increasing plant spacing",
+      "Improve ventilation especially in greenhouse settings",
+      "Avoid wetting leaves when watering"
+    ],
+    "prevention": [
+      "Choose mould-resistant tomato varieties",
+      "Keep relative humidity below 85%",
+      "Space plants adequately for airflow"
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease": "Septoria Leaf Spot",
+    "crop": "Tomato",
+    "cause": "Fungal infection (Septoria lycopersici)",
+    "symptoms": "Many small circular spots with dark borders and grey centres",
+    "urgency": "Moderate",
+    "treatment": [
+      "Remove infected leaves starting from the bottom of the plant",
+      "Apply mancozeb or chlorothalonil fungicide every 7\u201310 days",
+      "Mulch around the base to prevent soil splash",
+      "Stake plants to improve airflow",
+      "Avoid overhead watering"
+    ],
+    "prevention": [
+      "Rotate tomatoes with non-related crops for 3 years",
+      "Remove all plant debris after harvest",
+      "Use drip irrigation"
+    ]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease": "Spider Mite Infestation",
+    "crop": "Tomato",
+    "cause": "Pest infestation (Tetranychus urticae)",
+    "symptoms": "Tiny yellow speckling on leaves; fine webbing on undersides",
+    "urgency": "Moderate",
+    "treatment": [
+      "Spray plants forcefully with water to knock off mites",
+      "Apply neem oil spray (2 tbsp neem oil per litre of water)",
+      "Use insecticidal soap spray on affected areas",
+      "Introduce natural predators like ladybugs if available",
+      "Apply miticide if infestation is severe"
+    ],
+    "prevention": [
+      "Keep plants well-watered \u2014 mites thrive on stressed plants",
+      "Avoid dusty conditions around the farm",
+      "Monitor the undersides of leaves weekly"
+    ]
+  },
+  "Tomato___Target_Spot": {
+    "disease": "Target Spot",
+    "crop": "Tomato",
+    "cause": "Fungal infection (Corynespora cassiicola)",
+    "symptoms": "Brown spots with concentric rings on leaves, stems, and fruit",
+    "urgency": "Moderate",
+    "treatment": [
+      "Remove and destroy infected leaves",
+      "Apply azoxystrobin or chlorothalonil fungicide",
+      "Improve air circulation by pruning",
+      "Avoid wetting the foliage when irrigating"
+    ],
+    "prevention": [
+      "Use resistant varieties where available",
+      "Practice crop rotation",
+      "Keep field free of weeds and plant debris"
+    ]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease": "Yellow Leaf Curl Virus (TYLCV)",
+    "crop": "Tomato",
+    "cause": "Viral infection transmitted by whiteflies",
+    "symptoms": "Leaves curl upward and turn yellow; stunted plant growth",
+    "urgency": "High \u2014 no cure once infected",
+    "treatment": [
+      "Remove and destroy infected plants immediately",
+      "Control whiteflies using yellow sticky traps",
+      "Apply imidacloprid insecticide to kill whitefly vectors",
+      "Use reflective mulch to repel whiteflies",
+      "No chemical cure \u2014 focus on removing infected plants"
+    ],
+    "prevention": [
+      "Plant TYLCV-resistant tomato varieties",
+      "Use insect-proof nets in nurseries",
+      "Control weeds that harbour whiteflies"
+    ]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease": "Tomato Mosaic Virus (ToMV)",
+    "crop": "Tomato",
+    "cause": "Viral infection spread by contact and infected tools",
+    "symptoms": "Mottled light and dark green patches on leaves; distorted growth",
+    "urgency": "High \u2014 no cure once infected",
+    "treatment": [
+      "Remove and destroy all infected plants",
+      "Disinfect hands and tools with soap or bleach after touching plants",
+      "Control aphids and insects that spread the virus",
+      "Do not smoke near tomato plants \u2014 tobacco carries this virus"
+    ],
+    "prevention": [
+      "Use virus-free certified seeds",
+      "Wash hands before handling plants",
+      "Plant resistant varieties"
+    ]
+  },
+  "Tomato___healthy": {
+    "disease": "Healthy",
+    "crop": "Tomato",
+    "cause": null,
+    "symptoms": "No disease symptoms detected",
+    "urgency": "None",
+    "treatment": [
+      "Your tomato plant looks healthy \u2014 keep it up!",
+      "Continue regular watering at the base of the plant",
+      "Apply balanced fertilizer (NPK) every 2\u20133 weeks",
+      "Monitor weekly for early signs of disease or pests"
+    ],
+    "prevention": [
+      "Maintain good spacing for airflow",
+      "Remove dead leaves regularly",
+      "Rotate crops each season"
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease": "Common Rust",
+    "crop": "Maize",
+    "cause": "Fungal infection (Puccinia sorghi)",
+    "symptoms": "Small powdery brick-red pustules scattered on both leaf surfaces",
+    "urgency": "Moderate",
+    "treatment": [
+      "Apply fungicide containing azoxystrobin or propiconazole",
+      "Spray at first sign of pustules \u2014 early treatment is key",
+      "Remove and destroy heavily infected leaves",
+      "Repeat fungicide application every 14 days if needed"
+    ],
+    "prevention": [
+      "Plant rust-resistant maize varieties",
+      "Plant early in the season to avoid peak rust conditions",
+      "Avoid excessive nitrogen fertilizer"
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease": "Northern Leaf Blight",
+    "crop": "Maize",
+    "cause": "Fungal infection (Exserohilum turcicum)",
+    "symptoms": "Long cigar-shaped grey-green lesions (5\u201315 cm) along the leaf",
+    "urgency": "High",
+    "treatment": [
+      "Apply azoxystrobin, propiconazole or mancozeb at tasseling stage",
+      "Remove severely infected leaves to slow spread",
+      "Increase plant spacing to improve air circulation",
+      "Avoid late-day irrigation \u2014 wet nights favour this fungus"
+    ],
+    "prevention": [
+      "Plant resistant hybrid maize varieties",
+      "Rotate maize with soybeans or other non-host crops",
+      "Till or bury crop residue after harvest to destroy spores"
+    ]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease": "Gray Leaf Spot",
+    "crop": "Maize",
+    "cause": "Fungal infection (Cercospora zeae-maydis)",
+    "symptoms": "Rectangular pale brown to grey lesions running parallel to leaf veins",
+    "urgency": "High",
+    "treatment": [
+      "Apply strobilurin-based fungicide (azoxystrobin) at first sign",
+      "Remove extra leaves if plants are overcrowded",
+      "Avoid overhead irrigation",
+      "Spray whole field including surrounding border rows"
+    ],
+    "prevention": [
+      "Plant gray leaf spot resistant varieties",
+      "Rotate crops every season",
+      "Till soil to bury infected residue after harvest"
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "disease": "Healthy",
+    "crop": "Maize",
+    "cause": null,
+    "symptoms": "No disease symptoms detected",
+    "urgency": "None",
+    "treatment": [
+      "Your maize plant looks healthy \u2014 great condition!",
+      "Continue regular watering especially during tasseling and grain fill",
+      "Top-dress with nitrogen fertilizer at knee-high stage",
+      "Scout weekly for early signs of pests or disease"
+    ],
+    "prevention": [
+      "Keep the field free of weeds",
+      "Monitor for fall armyworm during vegetative stages",
+      "Rotate crops each season to break disease cycles"
+    ]
+  }
+}
